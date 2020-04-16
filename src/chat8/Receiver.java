@@ -1,4 +1,4 @@
-package chat7;
+package chat8;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

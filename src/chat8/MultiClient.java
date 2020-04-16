@@ -1,4 +1,4 @@
-package chat7;
+package chat8;
 
 import java.net.Socket;
 import java.util.Scanner;
